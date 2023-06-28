@@ -1,3 +1,5 @@
+Project developed on the Alura platform, applying basic CRUD concepts, using Angular 14.
+
 # Memoteca
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.0.
